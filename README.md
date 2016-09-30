@@ -1,5 +1,5 @@
 # TIP
-Heart rate sensor using RASPI-3
+A Portable Real Time ECG Device for Arrhythmia Detection Using Rasp-berry Pi
 
 #Inspiration
 Arrhythmia is an underlying cardiac condition that goes undetected in the earlier stages but later manifests itself as sudden cardiac arrest. This is especially observed in the elderly population, smokers and people having a family history of cardiac illness. The cost of diagnostics and the risk of delaying treatment inspired us As a result portable and sensitive ECG devices were the need of the hour to detect arrhythmia at an earlier stage when the prognosis of the disease is better.
